@@ -41,7 +41,7 @@ void loop() {
 ```
 
 # Ladda upp
-Tryck på **Upload** (ladda upp) **innan** du kopplar in digisparken i USB porten. Du har Ca 60 sekunder på dig att koppla in digisparken i USB-porten från att du tryckt på knappen.
+Tryck på **Upload** (ladda upp) **innan** du kopplar in digisparken i USB porten. Du har Ca 60 sekunder på dig att koppla in digisparken i USB-porten från att du tryckt på knappen. Om allting fungerar så ska LED-lampan på digisparken att blinka med 1 sekunds intervall.
 
 # Referenser
 Pin outs:
